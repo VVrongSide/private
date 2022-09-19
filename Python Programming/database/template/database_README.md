@@ -2,7 +2,7 @@
 
 
 This database template is made for a Linux distro and so is the rest of the guide. 
-It was last tested on a laptop with 20.04.1-Ubuntu on 25-03-2022, where it is confirmed that everything worked.
+It was last tested on a laptop with 20.04.1-Ubuntu on 25-03-2022, where it was confirmed that everything worked.
 
 In order to follow this guide, the reader is expected to have a basic understanding of SQL syntax and Linux usage.
 

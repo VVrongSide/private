@@ -1,10 +1,9 @@
+# This was only the database program to make CRUD operations for our semester project.
+
 import mysql.connector
 from mysql.connector import errorcode
 import time
 import datetime
-
-
-
 
 class Database(object):
     """Database class\n
