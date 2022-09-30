@@ -1,7 +1,6 @@
 ###################################################################################
-# This database template was created by Anders Holm (DK).                        #
 #                                                                                 #  
-# The template is based on the database already created before running the       #
+# The template is based on the database already created before running the        #
 # program.                                                                        #
 # Read the README.md to get this settled. It will guide you through the           #
 # installation and setup.                                                         #
